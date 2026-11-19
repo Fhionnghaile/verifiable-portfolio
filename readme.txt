@@ -1,5 +1,5 @@
 === Verifiable Portfolio ===
-Contributors: yourname
+Contributors: fhionnghaile
 Tags: portfolio, profile, skills, hiring, shortcode
 Requires at least: 6.2
 Tested up to: 6.6

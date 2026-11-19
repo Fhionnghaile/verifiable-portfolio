@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Verifiable Portfolio
- * Plugin URI:        https://example.com/plugins/verifiable-portfolio
+ * Plugin URI:        https://github.com/fhionnghaile/verifiable-portfolio
  * Description:       A public, auto-generated portfolio / identity page rendered from a filterable profile (competencies, projects, certifications). Decoupled from any record system — supply data via the `verifiable_portfolio_profile` filter.
  * Version:           1.0.0
  * Requires at least: 6.2
