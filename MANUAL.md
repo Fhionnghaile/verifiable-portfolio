@@ -11,6 +11,9 @@ A WordPress plugin that builds a clean, accessible portfolio page from a profile
 ## 3. Demo
 Install on a test site and visit `/portfolio`. Capture to record: the rendered page.
 
+![Real test run, captured 21 Nov 2026](docs/test-run.svg)
+*Real output from this repository's own tests, captured 21 Nov 2026.*
+
 ## 4. Run it yourself
 **Prerequisites:** WordPress 6.2+, PHP 7.4+.
 
