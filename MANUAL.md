@@ -1,5 +1,7 @@
 # Verifiable Portfolio (WordPress plugin) — manual
 
+[![CI](https://github.com/Fhionnghaile/verifiable-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/Fhionnghaile/verifiable-portfolio/actions/workflows/ci.yml) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Fhionnghaile/verifiable-portfolio/badge)](https://scorecard.dev/viewer/?uri=github.com/Fhionnghaile/verifiable-portfolio)
+
 *One page, eight blocks. Every figure here comes from this repository's own tests and README.*
 
 ## 1. Claim
